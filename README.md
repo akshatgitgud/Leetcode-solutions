@@ -1,4 +1,6 @@
 A collection of LeetCode questions solution.
+ps : many previous solutions aren't here.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
