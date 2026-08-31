@@ -21,5 +21,6 @@ A collection of LeetCode questions solution.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
