@@ -6,8 +6,7 @@ class Solution {
     while(i<n && j<n){
         if(nums[i]>=0){
             ans[k]=nums[i];k+=2;
-        }
-          if(nums[j]<=0){
+        } else{
             ans[l]=nums[j];l+=2;
         }
         j++;i++;
