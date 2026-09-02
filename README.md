@@ -9,6 +9,7 @@ ps : many previous solutions aren't here.
 | [0001-two-sum](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -45,8 +46,12 @@ ps : many previous solutions aren't here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
