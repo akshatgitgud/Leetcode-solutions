@@ -46,7 +46,7 @@ ps : many previous solutions aren't here.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0169-majority-element) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## Boyer Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/akshatgitgud/Leetcode-solutions/tree/master/0169-majority-element) |
